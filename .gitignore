@@ -1,0 +1,27 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and local tools
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+*.pyc
+
