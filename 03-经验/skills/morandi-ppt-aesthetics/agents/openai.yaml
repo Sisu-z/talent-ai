@@ -1,0 +1,4 @@
+interface:
+  display_name: "莫兰迪 PPT 审美与排版"
+  short_description: "把旅行、诗歌之城与香氛成品中的审美经验转成可验证的 PPT 设计要求"
+  default_prompt: "使用 $morandi-ppt-aesthetics，从我的历史成品提炼并应用本次 PPT 的审美方向，分别检验视觉完成度与基础可用性。"
