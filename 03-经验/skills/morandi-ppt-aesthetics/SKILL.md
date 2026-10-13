@@ -21,6 +21,8 @@ The goal is a complete presentation for its audience, not a collection of well-f
 
 ## Make the brief tangible
 
+Before delegating or laying out slides, identify the **audience-facing job** from the current request: first project introduction, progress review, technical decision meeting, teaching, or another actual use. Do not silently turn a short teacher discussion into an internal progress/risks report. For project introductions, pitches, or feedback that the deck sounds like an Agent report, read [audience and screen calibration](references/audience-calibration.md). Known answers do not require another questionnaire.
+
 Before layout, identify the actual audience, venue, purpose and essential information. A tourist gathering needs itinerary and purchase conditions; a fragrance salon needs credible services and timing; a ceramics talk needs details large enough to observe. Do not make realistic content thinner just to create sparse, attractive pages.
 
 From the relevant examples, state a few observable goals and how they fit this topic. For example: photos and text share one composition; service pages keep the visual language of product pages; comparison pages reveal the particular difference being explained. Do not use only labels such as premium, elegant, professional or Morandi.
@@ -65,6 +67,8 @@ Avoid repeating the same slogan, three-part rhythm or question pattern across ev
 ## Review against the user's examples and the actual alternatives
 
 For a substantial redesign, render a few representative key pages early: include both an image-led page and a difficult information or comparison page. Use them to settle composition before rebuilding every slide. This is an early check, not a mandatory new approval gate when the user has authorized independent execution.
+
+Before the visual/technical checks, read the actual screen copy without the chat context: does it perform the audience-facing job, with enough concrete substance? Separate screen content, spoken explanation and internal records. A director must check this before accepting a specialist's deck; a correct task log and six clean renders cannot compensate for the wrong presentation purpose.
 
 Review the composite at presentation size, not assets in isolation. Check that the page communicates its specific point, the image leads somewhere, and foreground/background relations are intentional. Intentional overlap can create depth; accidental collisions between type, borders, subject edges and panels are defects. The accepted reference is a quality comparison, not a layout to reproduce on every page.
 
